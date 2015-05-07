@@ -47,5 +47,6 @@ class trojkat
     {
     return $this->a * $this->h * $this ->c;
     
+    
     }
 }

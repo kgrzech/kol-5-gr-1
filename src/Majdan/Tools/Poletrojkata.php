@@ -2,6 +2,6 @@
 
 namespace Majdan\Tools;
 
-class Pole_trojkata
+class Poletrojkata
 {
 }
